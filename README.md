@@ -14,24 +14,6 @@ A modern and responsive **Weather App** built using **HTML5, CSS3, and Vanilla J
 
 ---
 
-## 📸 Preview
-
-### Desktop
-
-<p align="center">
-  <img src="screenshots/desktop.png" width="900" alt="Desktop Preview">
-</p>
-
-### Mobile
-
-<p align="center">
-  <img src="screenshots/home.png" width="220" alt="Home Screen">
-  <img src="screenshots/search.png" width="220" alt="Search Screen">
-  <img src="screenshots/forecast.png" width="220" alt="Forecast Screen">
-</p>
-
----
-
 # ✨ Features
 
 ### 🌍 Weather Information
@@ -222,7 +204,7 @@ Computer Science Student
 https://github.com/yourusername
 
 **LinkedIn:**  
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/muhammad-furqan-228807304/d 
 
 ---
 
