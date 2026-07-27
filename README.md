@@ -199,11 +199,13 @@ git push origin feature-name
 Computer Science Student
 
 **GitHub:**  
-https://github.com/yourusername
+https://github.com/furqanzubair209-cell
 
 **LinkedIn:**  
 https://www.linkedin.com/in/muhammad-furqan-228807304/d 
 
+**Live Demo:**  
+https://furqanweatherapp.netlify.app/
 ---
 
 # ⭐ Support
