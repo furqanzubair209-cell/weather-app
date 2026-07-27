@@ -104,7 +104,7 @@ Weather-App/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/furqanzubair209-cell/weather-app.git
 ```
 
 ## 2. Navigate to the Project
