@@ -14,7 +14,6 @@ A modern and responsive **Weather App** built using **HTML5, CSS3, and Vanilla J
 
 ---
 
-https://github.com/furqanzubair209-cell/weather-app/blob/main/Screenshot_2026-07-27-10-23-28-322_com.android.chrome.jpg
 # ✨ Features
 
 ### 🌍 Weather Information
@@ -94,10 +93,8 @@ Weather-App/
 │
 ├── index.html
 ├── README.md
-└── screenshots/
-    ├── Screenshot 1.png
-    ├── Screenshot 2.png
-    ├── Screenshot 3.png
+└── screenshots
+    
 ```
 
 ---
